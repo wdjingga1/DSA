@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Data Science and Analytics",
+    "description": "Welcome to our new blog, Data Science and Analytics. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Wesley Djingga",
+        "url": "https://www.linkedin.com/in/wesley-djingga/"
+      }
+    ],
+    "date": "2021-09-09",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-09T17:22:53+08:00",
+    "input_file": "welcome.knit.md"
+  }
+]
